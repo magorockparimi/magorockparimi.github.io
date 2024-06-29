@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://magorockparimi.github.io/sitemap
+Sitemap: https://magorockparimi.github.io/app/sitemap
+Sitemap: https://magorockparimi.github.io/assets/sitemap
+Sitemap: https://magorockparimi.github.io/css/sitemap
+Sitemap: https://magorockparimi.github.io/includes/sitemap
+Sitemap: https://magorockparimi.github.io/item/sitemap
+Sitemap: https://magorockparimi.github.io/src/sitemap
